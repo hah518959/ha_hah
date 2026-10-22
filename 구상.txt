@@ -3,4 +3,4 @@
 2. 스프링부트(JAVA): JAVA공부
 3. 로컬LLM구축: Python공부[Hugging Face, Optimizer, transformers]
 4. 3D 아바타 연동: 뭐시기 특이한 VRM(virtual Reality Model), ik 등..
-5. 인간 언어가 아닌 것들은 
+5. 인간 언어가 아닌 것들은 뭐시기 tts가 아니라 다른 것으로 구현시켜야한다고 함.
