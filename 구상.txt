@@ -1,0 +1,6 @@
+사이트 구축, 로컬LLM구축, 3D 아바다 연동, TTS로 목소리 만들기
+1. 사이트 구축: 스프링부트
+2. 스프링부트(JAVA): JAVA공부
+3. 로컬LLM구축: Python공부[Hugging Face, Optimizer, transformers]
+4. 3D 아바타 연동: 뭐시기 특이한 VRM(virtual Reality Model), ik 등..
+5. 인간 언어가 아닌 것들은 
