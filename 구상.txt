@@ -1,1 +1,7 @@
-내가 만들고 싶은거는 그래픽 카드마다 다른 모델을 넣거나
+LLM 모델은 Huggingface에 있는 애들 중에서 선택
+-Exaone 2.5 7.8B
+-Qwen 2.5 7.8B
+-Kanana 2 3B 정도?
+모델 크기랑 그래픽 카드 Vram에 따라서 3D 모델도 다르게 만들 예정
+
+솔직히 Chatgpt, gemini
